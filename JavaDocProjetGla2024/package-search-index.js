@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.u_paris.gla.project"},{"l":"fr.u_paris.gla.project.dijkstra"},{"l":"fr.u_paris.gla.project.idfm"},{"l":"fr.u_paris.gla.project.io"},{"l":"fr.u_paris.gla.project.utils"},{"l":"fr.u_paris.gla.project.view"}];updateSearchResults();
